@@ -1,18 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Daniel Kisoon Kwon`s blog
+email: moxie2ks@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://moxieDani.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Welcome!
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+facebook: moxie2ks
+linkedin: moxie2ks
+github: moxieDani
+deviantart: -
+codepen: -
 
 footer: © Taken theme
 
