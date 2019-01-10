@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://moxieDani.github.io" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: Welcome!
+description: "Welcome!"
 
 # Social icons
 facebook: moxie2ks
